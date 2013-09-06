@@ -1,4 +1,9 @@
-UMB_INF100_H13
+INF100 høsten 2013
 ==============
 
-Repository for material for my course INF100 at the Norwegian University of Life Sciences (in Norwegian)
+I denne mappen finner du alt materiale til emnet INF100 ved UMB høsten 2013.
+
+Alt materiale på denne siden publiseres under *Creative Commons Attribution-Non Commercial-Share Alike (CC BY-NC-SA)* lisensen. For mer informasjon om lisensen, se [Creative Commons](http://creativecommons.org/licenses/).
+
+Mvh
+Hans E Plesser
