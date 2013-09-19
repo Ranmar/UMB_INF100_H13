@@ -5,6 +5,11 @@ I dette arkivet finner du alt materiale til INF100 ved UMB høsten 2013.
 
 For mer informasjon om arkivet og hvordan du kan bruke det, se [oversiktssiden for INF100](http://heplesser.github.io/UMB_INF100_H13/).
 
+#### 2013-09-19
+- IPython Notebook for forelesningen 19.09. er lagt ut, se mappen [Forelesninger](https://github.com/heplesser/UMB_INF100_H13/tree/master/Forelesninger). De er også tilgjengelige på [NBViewer](http://nbviewer.ipython.org/urls/raw.github.com/heplesser/UMB_INF100_H13/master/Forelesninger/INF100_H13_F03.ipynb).
+- Obligatorisk innleveringsoppgave 2 med frist 4. oktober er tilgjengelig i mappen [Obliger](https://github.com/heplesser/UMB_INF100_H13/tree/master/Obliger) og på [NBViewer](http://nbviewer.ipython.org/urls/raw.github.com/heplesser/UMB_INF100_H13/master/Obliger/INF100_H13_Oblig2.ipynb).
+- Se tipset under for råd til nedlasting.
+
 #### 2013-09-17
 - **Løsning for nedlastingsproblemer**: Jeg beklager at dette kommer sent, men løsningen på nedlastingsproblemene var "hidden in plain sight", som det heter på engelsk. Hvis du har problemer med å laste ned IPython Notebooks fra siden her, kan du laste ned hele arkivet som en Zip-fil ved å klikke på "Download ZIP" knappen ved siden (eller du kan [klikke på denne lenken](https://github.com/heplesser/UMB_INF100_H13/archive/master.zip)). Lagre filen, åpne den ved å dobbelklikke og den pakkes ut som `UMB_INF100_H13-master`. I den mappen finner du alle `.ipynb` filene (i undermappende `Forelesninger` og `Obliger`) og du kan flytte de til din `Python` mappe på vanlig måte for ditt operativsystem.
 - **Utsatt innleveringsfrist**: Fristen for innleveringen av den første obligatoriske oppgaven utsettes med en uke til **fredag 27.09. kl 12.00** pga de tekniske problemene mange av dere har opplevd. NB: fristen for den andre obligatoriske innleveringen vil fortsatt være fredag 04.10.!
