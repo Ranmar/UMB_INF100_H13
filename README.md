@@ -9,6 +9,7 @@ For mer informasjon om arkivet og hvordan du kan bruke det, se [oversiktssiden f
 
 #### 2013-10-02
 - **Forelsningen utgår torsdag 3. oktober.**
+- Øvingsgruppen på mandager kl 12-14 er nedlagt pga dårlig oppmøte. Vennligst benytt de øvrige øvingstimene.
 - Obligatorisk innleveringsoppgave 3 med frist 18. oktober er tilgjengelig i mappen [Obliger](https://github.com/heplesser/UMB_INF100_H13/tree/master/Obliger) og på [NBViewer](http://nbviewer.ipython.org/urls/raw.github.com/heplesser/UMB_INF100_H13/master/Obliger/INF100_H13_Oblig3.ipynb).
 
 #### 2013-09-26
