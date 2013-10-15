@@ -1,11 +1,16 @@
 INF100 høsten 2013
 ==============
 
-## HUSK: Forelesningen utgår torsdag 3. oktober. Øvingene går som normalt.
-
-I dette arkivet finner du alt materiale til INF100 ved UMB høsten 2013.
-
 For mer informasjon om arkivet og hvordan du kan bruke det, se [oversiktssiden for INF100](http://heplesser.github.io/UMB_INF100_H13/).
+
+#### 2013-10-15
+- Resultatene av den andre obligatoriske innleveringen er nå klar i Info-mappen i Fronterrommet for emnet.
+- Kravet til obligatorisk aktivitet er redusert fra 14 til 12 godkjente oppgaver; dette grunnet tekniske problemer i starten.
+- Gjesteforelesningen ved Roar Thon, NSM, er utsatt fra 14.11. til 21.11.
+- **Husk obligatorisk innlevering nr 3!!!**
+    - Frist: fredag, 18.10., kl 12.00
+    - Bare filer lastet opp til Fronter innen fristen vurderes
+    - Ditt navn og din epostadresse må stå i notebooken
 
 #### 2013-10-02
 - **Forelsningen utgår torsdag 3. oktober.**
