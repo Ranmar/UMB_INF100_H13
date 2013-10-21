@@ -3,6 +3,9 @@ INF100 høsten 2013
 
 For mer informasjon om arkivet og hvordan du kan bruke det, se [oversiktssiden for INF100](http://heplesser.github.io/UMB_INF100_H13/).
 
+#### 2013-10-21
+- Oppgavestillingen til obligatorisk innlevering nr 4 er nå lagt ut som IPython Notebook. Du finner den så vel [her på GitHub under Obliger](https://github.com/heplesser/UMB_INF100_H13/tree/master/Obliger), på [NBViewer](http://nbviewer.ipython.org/urls/raw.github.com/heplesser/UMB_INF100_H13/master/Obliger/INF100_H13_Oblig4.ipynb) og på Fronter. Frist for levering på Fronter er **fredag 1. november kl 12.00**.
+
 #### 2013-10-15
 - Resultatene av den andre obligatoriske innleveringen er nå klar i Info-mappen i Fronterrommet for emnet.
 - Kravet til obligatorisk aktivitet er redusert fra 14 til 12 godkjente oppgaver; dette grunnet tekniske problemer i starten.
