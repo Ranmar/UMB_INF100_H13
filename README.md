@@ -3,6 +3,9 @@ INF100 høsten 2013
 
 For mer informasjon om arkivet og hvordan du kan bruke det, se [oversiktssiden for INF100](http://heplesser.github.io/UMB_INF100_H13/).
 
+#### 2013-10-31
+- Materialet til dagens forelesning er lagt ut. Det er en IPython Notebook til første delen og en PDF-fil til den andre delen. Begge finnes i [Forelesninger](https://github.com/heplesser/UMB_INF100_H13/tree/master/Forelesninger) mappen. For å laste ned PDFen, klikk på filen og så på "View Raw".
+
 #### 2013-10-24
 - Notebooken til forelesningen 24.10. er oppdatert med noen rettinger og forbedringer.
 
