@@ -3,6 +3,9 @@ INF100 høsten 2013
 
 For mer informasjon om arkivet og hvordan du kan bruke det, se [oversiktssiden for INF100](http://heplesser.github.io/UMB_INF100_H13/).
 
+#### 2013-11-06
+- Materialet til forelesningen 7.11. er lagt ut: to PDFer og en Notebook-fil.
+
 #### 2013-11-01
 - Fasit til obligatorisk innlevering nr 4 er lagt ut i  [Obliger](https://github.com/heplesser/UMB_INF100_H13/tree/master/Obliger) mappen.
 - Oppgavestillingen (notebooken) til obligatorisk innlevering nr 5 er lagt ut i [Obliger](https://github.com/heplesser/UMB_INF100_H13/tree/master/Obliger) mappen og i innleveringsmappen på Fronter. Frist for innlevering er 15.11.2013 kl 12.00.
