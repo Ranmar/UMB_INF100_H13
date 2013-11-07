@@ -3,6 +3,9 @@ INF100 høsten 2013
 
 For mer informasjon om arkivet og hvordan du kan bruke det, se [oversiktssiden for INF100](http://heplesser.github.io/UMB_INF100_H13/).
 
+#### 2013-11-08
+- Flere har meldt om at de ikke kunne laste ned PDF-filen for del 2 av forelesningen her fra Github. Jeg har derfor nå lagt ut filen i Fronterrommet under "Info".
+
 #### 2013-11-07
 - Et video som viser regnearkeksemplet fra forelesningen 7.11. er lagt ut **i Info mappen på Fronter** som `INF100_H13_F09_RegnarkVideo.mov`. Av tekniske grunner kan den ikke legges ut her på GitHub. NB: Last ned filen til datamaskin før du spiller av filen, ved å klikke på trekanten ved siden av filnavnet og å velge "Last ned". Under Windows kunne jeg ikke spille av filmen ved bare å klikke på filnavnet.
 
