@@ -5,6 +5,14 @@ For mer informasjon om arkivet og hvordan du kan bruke det, se [oversiktssiden f
 
 #### 2013-11-08
 - Flere har meldt om at de ikke kunne laste ned PDF-filen for del 2 av forelesningen her fra Github. Jeg har derfor nå lagt ut filen i Fronterrommet under "Info".
+- Bøkene jeg viste i forelesningen i går:
+  - Douglas R. Hofstader, *Gödel, Escher, Bach*, Penguin, ISBN 978-0140289206
+  - Simon Singh, *The Code Book*, Fourth Estate, ISBN 978-1857028898
+  - Denis Noble, *The Music of Life*, Oxford University Press, ISBN 978-0-19-929573-9
+  - Jo Marchant, *Decoding the Heavens*, William Heinemann, 978-0-434-01835-2
+  - Scott McCartney, *ENIAC*, Walker & Company, 0-8027-1348-3
+  - Mike Hally, *Electronic Brains*, Granta Books, 1-86207-663-4
+  - Raúl Rojas and Ulf Hashagen (editors), *The First Computers*, MIT Press, 0-262-68137-4
 
 #### 2013-11-07
 - Et video som viser regnearkeksemplet fra forelesningen 7.11. er lagt ut **i Info mappen på Fronter** som `INF100_H13_F09_RegnarkVideo.mov`. Av tekniske grunner kan den ikke legges ut her på GitHub. NB: Last ned filen til datamaskin før du spiller av filen, ved å klikke på trekanten ved siden av filnavnet og å velge "Last ned". Under Windows kunne jeg ikke spille av filmen ved bare å klikke på filnavnet.
